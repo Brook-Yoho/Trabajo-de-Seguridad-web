@@ -8,6 +8,8 @@ Descripción: Fotografía de flores rosadas en un jardín con fondo azul.
 
 Uso permitido: Compartir y adaptar la imagen siempre que se dé crédito al autor.
 
+Autor: Clara Bocele
+
 Fuente de licencia: https://commons.wikimedia.org/wiki/Main_Page
 
 **Lirio amarillo**
@@ -20,6 +22,8 @@ Licencia: Creative Commons Attribution 4.0 (CC BY 4.0)
 Descripción: Fotografía de un lirio amarillo rodeado de diferentes flores de colores en un jardín.
 
 Uso permitido: La imagen puede copiarse, redistribuirse y modificarse con atribución al autor.
+
+Autor: Clara Bocele
 
 Fuente de licencia: https://commons.wikimedia.org/wiki/Main_Page
 
@@ -34,5 +38,7 @@ Licencia: Creative Commons Attribution 4.0 (CC BY 4.0)
 Descripción: Imagen de una flor morada en primer plano con hojas verdes de fondo.
 
 Uso permitido: Permitido compartir y modificar con atribución al creador original.
+
+Autor: Clara Bocele
 
 Fuente de licencia:(https://commons.wikimedia.org/wiki/Main_Page)
